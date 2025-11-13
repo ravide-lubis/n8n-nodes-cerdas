@@ -1,0 +1,40 @@
+{
+	"node": "n8n-nodes-asal",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://yourdomain.com/docs/credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://yourdomain.com/docs/custom-api-node"
+			}
+		],
+		"generic": [
+			{
+				"label": "Getting Started with Custom API Node",
+				"icon": "🚀",
+				"url": "https://yourdomain.com/blog/getting-started"
+			},
+			{
+				"label": "Advanced API Integration Patterns",
+				"icon": "⚡",
+				"url": "https://yourdomain.com/blog/advanced-patterns"
+			},
+			{
+				"label": "Real-world Use Cases",
+				"icon": "💡",
+				"url": "https://yourdomain.com/blog/use-cases"
+			}
+		]
+	},
+	"alias": ["API", "REST", "HTTP"],
+	"subcategories": {
+		"Development": ["API"],
+		"Utility": ["Web"]
+	}
+}
